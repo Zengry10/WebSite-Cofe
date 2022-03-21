@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap");
 body {
   font-family: "open Sans", cursive;
+  width: 100%;
 }
 
 .media {
@@ -234,7 +235,7 @@ span > #contain_feat {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  background-image: url("backgroundPicture.jpg");
+  background-image: url("./images/backgroundPicture.jpg");
 }
 .start_body .start_under {
   display: flex;
@@ -819,6 +820,7 @@ p.list_txt {
 }
 .img_pic_bottom_last_container .container_pic_two_per_two .imgg {
   height: 219px;
+  width: 316px;
 }
 .img_pic_bottom_last_container .container_pic_two_per_two .imgg:hover {
   opacity: 90%;
